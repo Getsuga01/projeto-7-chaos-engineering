@@ -1,0 +1,3 @@
+# Dependências da Lambda
+# boto3 já está incluído no runtime Python 3.12 da AWS Lambda
+# Não são necessárias dependências externas adicionais
